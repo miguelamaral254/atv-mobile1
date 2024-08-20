@@ -1,6 +1,3 @@
-Entendi! Vou ajustar o README para refletir que o projeto está hospedado no GitHub Pages e que não é necessário clonar o repositório. Veja o README atualizado:
-
----
 
 # Conversor de Moedas
 
