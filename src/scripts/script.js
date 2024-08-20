@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 })
                 .catch(error => console.error("Error converting currency:", error));
         } else {
-            result.innerHTML = "Please enter a valid amount.";
+            result.innerHTML = "Por favor, entre com um valor válido.";
         }
     });
 });
